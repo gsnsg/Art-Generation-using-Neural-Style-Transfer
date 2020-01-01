@@ -1,6 +1,6 @@
 # Art-Generation-using-Neural-Style-Transfer
 Here we take a Style image(S) and Content image(C) and genrate a image with style S and content C using transfer learning 
-on VGG 19 model
+on VGG 19 model suggested in research paper referenced below.
  
  Example:
 
